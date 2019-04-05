@@ -1,0 +1,14 @@
+.navbar-nav li{
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 1.2em;
+}
+
+.Line{
+    margin-top: -20px;
+}
+
+.btn-info{
+    float: right;
+
+}

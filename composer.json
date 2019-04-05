@@ -1,0 +1,15 @@
+{
+  "name": "UnitedCargoFinal",
+  "description": "Invoice And Billing",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Rahul Sharma",
+      "email": "imrms523@gmail.com"
+    }
+  ],
+  "require": {
+    "mpdf/mpdf": "7.0.2"
+  }
+}
